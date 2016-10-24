@@ -159,6 +159,8 @@
 - [mozilla color picker tool](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool)
 - [bootflat color picker](http://bootflat.github.io/color-picker.html)
 - [nipponcolors](http://nipponcolors.com/)
+- [materialpalette](https://www.materialpalette.com/)
+- [uigradients](http://uigradients.com/)
 
 #### 設計相關
 - [dribbble](https://dribbble.com/)
