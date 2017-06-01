@@ -1,7 +1,6 @@
 ## 前言
 學習前端過程中，從網路上收集了很多的資源，有的只是覺得不錯就收到書籤內，從來沒用過XD。</br>
-整理書籤之餘，也分享給有興趣的人。</br>
-(本來還有 React 相關的資源，可是太多太雜了，而且半年後應該就沒有參考價值了吧=O=!)
+如果有覺得不錯的資源想分享，也可以跟我說！</br>
 
 ---
 
@@ -161,6 +160,7 @@
 - [nipponcolors](http://nipponcolors.com/)
 - [materialpalette](https://www.materialpalette.com/)
 - [uigradients](http://uigradients.com/)
+- [color supply](http://colorsupplyyy.com/app/)
 
 #### 設計相關
 - [dribbble](https://dribbble.com/)
