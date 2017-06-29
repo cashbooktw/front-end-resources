@@ -65,6 +65,9 @@
 
 ## <a id="css">CSS</a>
 
+#### 基本
+- [html & css is hard...](https://internetingishard.com/html-and-css/)
+
 #### Tricks
 - [CSS tricks](https://css-tricks.com/)
 - [REPLACING THE -9999PX HACK ](http://www.zeldman.com/2012/03/01/replacing-the-9999px-hack-new-image-replacement/)
@@ -106,7 +109,7 @@
 - [browsershots](http://browsershots.org/)
 - [browserling](https://www.browserling.com/)
 - [JSLint](http://www.jslint.com/)
-
+- [前端性能測試必備工具清單](https://calpa.me/2017/06/19/front-end-performance-check-list-for-production-in-chinese/index.html)
 #### 線上編輯
 - [stackedit](https://stackedit.io/editor)
 - [liveweave](http://liveweave.com/)
@@ -135,6 +138,7 @@
 - [human pictogram 2.0](http://pictogram2.com/?lang=en)
 - [google material icons](https://design.google.com/icons/)
 - [to [icon]](http://www.toicon.com/)
+- [Noun Project](https://thenounproject.com/)
 
 #### 圖庫
 - [懶人圖庫](http://www.lanrentuku.com/)
@@ -147,6 +151,8 @@
 - [allthefreestock](http://allthefreestock.com/)
 - [librestock](http://librestock.com/)
 - [CC0 免費圖庫搜尋引擎](http://cc0.wfublog.com/2015/04/high-quality-cc0-photo-collection.html)
+- [日本無料写真素材](http://freephoto.bizutart.com/)
+- [PeakPX](http://www.peakpx.com/)
 
 #### 配色
 - [有名映画の配色カラーパレットを集める](http://photoshopvip.net/90091)
@@ -161,6 +167,7 @@
 - [materialpalette](https://www.materialpalette.com/)
 - [uigradients](http://uigradients.com/)
 - [color supply](http://colorsupplyyy.com/app/)
+- [material design color tool](https://material.io/color/)
 
 #### 設計相關
 - [dribbble](https://dribbble.com/)
