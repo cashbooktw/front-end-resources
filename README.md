@@ -45,6 +45,8 @@
 - [codeschool](https://www.codeschool.com/)
 - [freecodecamp](https://www.freecodecamp.com/)
 - [egghead.io](https://egghead.io/)
+- [watchandcode](https://watchandcode.com/p/practical-javascript)
+- [http://javascript.info/](http://javascript.info/)
 
 #### Tricks
 - [Vanilla JS utilities for writing powerful web applications without jQuery.](https://plainjs.com/javascript/)
@@ -110,6 +112,8 @@
 - [browserling](https://www.browserling.com/)
 - [JSLint](http://www.jslint.com/)
 - [前端性能測試必備工具清單](https://calpa.me/2017/06/19/front-end-performance-check-list-for-production-in-chinese/index.html)
+- [前端性能優化與 SEO](https://medium.com/@Negaihoshi/%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD%E5%84%AA%E5%8C%96%E8%88%87-seo-e7173108088f)
+
 #### 線上編輯
 - [stackedit](https://stackedit.io/editor)
 - [liveweave](http://liveweave.com/)
@@ -185,6 +189,7 @@
 - [Git - zlargon](https://zlargon.gitbooks.io/git-tutorial/content/)
 - [Learn Git Branching](http://learngitbranching.js.org/)
 - [Git tower](https://www.git-tower.com/learn/)
+- [為你自己學 Git](http://gitbook.tw/)
 
 ## <a id="codekata">Code Practice</a>
 - [leetcode](https://leetcode.com/)
