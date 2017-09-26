@@ -54,6 +54,7 @@
 - [JS tips (繁中)](http://www.jstips.co/zh_TW/)
 - [5 minutes of JavaScript](https://fivejs.codeschool.com/)
 - [JavaScript 的各種迷霧 - Fred Chien](http://fred-zone.blogspot.tw/2015/05/javascript.html)
+- [wtfjs](https://github.com/denysdovhan/wtfjs)
 
 #### ES6
 - [ECMAScript 6入门 - 阮一峰(簡中)](http://es6.ruanyifeng.com/)
@@ -157,6 +158,12 @@
 - [CC0 免費圖庫搜尋引擎](http://cc0.wfublog.com/2015/04/high-quality-cc0-photo-collection.html)
 - [日本無料写真素材](http://freephoto.bizutart.com/)
 - [PeakPX](http://www.peakpx.com/)
+- [PEXELS](https://www.pexels.com/)
+- [visualhunt](https://visualhunt.com/)
+- [pixabay](https://pixabay.com/)
+- [freenaturestock](http://freenaturestock.com/)
+- [streetwill](http://streetwill.co/)
+- [日本食材](http://sozai-page.com/index.html)
 
 #### 配色
 - [有名映画の配色カラーパレットを集める](http://photoshopvip.net/90091)
