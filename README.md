@@ -22,6 +22,7 @@
 - [我要成為前端工程師！給 JavaScript 新手的建議與學習資源整理 - 保哥](http://blog.miniasp.com/post/2016/02/02/JavaScript-novice-advice-and-learning-resources.aspx)
 - [前端工程師手冊(簡中)](https://leohxj.gitbooks.io/front-end-database/content/)
 - [frontend tools](https://github.com/codylindley/frontend-tools)
+- [JavaScript 全栈工程师培训教程 - 阮一峰(簡中)](https://github.com/ruanyf/jstraining)
 
 ## <a id="javascript">JavaScript</a>
 
@@ -164,6 +165,8 @@
 - [freenaturestock](http://freenaturestock.com/)
 - [streetwill](http://streetwill.co/)
 - [日本食材](http://sozai-page.com/index.html)
+- [photock](https://www.photock.jp/)
+- [pakutaso](https://www.pakutaso.com/)
 
 #### 配色
 - [有名映画の配色カラーパレットを集める](http://photoshopvip.net/90091)
