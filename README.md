@@ -82,6 +82,7 @@
 - [CSS pro tips](https://github.com/AllThingsSmitty/css-protips)
 - [codrops tutorials](http://tympanus.net/codrops/category/tutorials/)
 - [Best HTML & CSS Cheat Sheets](http://www.cssauthor.com/html-and-css-cheat-sheets/)
+- [CSS Grid](https://mozilladevelopers.github.io/playground/)
 
 #### RWD
 - [Responsive Grid System](http://www.responsivegridsystem.com/)
@@ -167,6 +168,7 @@
 - [日本食材](http://sozai-page.com/index.html)
 - [photock](https://www.photock.jp/)
 - [pakutaso](https://www.pakutaso.com/)
+- [imcreator](http://imcreator.com/free)
 
 #### 配色
 - [有名映画の配色カラーパレットを集める](http://photoshopvip.net/90091)
@@ -200,6 +202,7 @@
 - [Learn Git Branching](http://learngitbranching.js.org/)
 - [Git tower](https://www.git-tower.com/learn/)
 - [為你自己學 Git](http://gitbook.tw/)
+- [Use Git to Control Your Life](https://speakerdeck.com/eddie/use-git-to-control-your-life)
 
 ## <a id="codekata">Code Practice</a>
 - [leetcode](https://leetcode.com/)
